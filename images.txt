@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #rocm/vllm-dev:navi_base
-ollama/ollama:rocm
+rocm/vllm:rocm6.3.1_mi300_ubuntu22.04_py3.12_vllm_0.6.6
